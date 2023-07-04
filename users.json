@@ -2,7 +2,11 @@
     "users": [
         {
             "username": "$2b$12$N4qc2ZgyUi86QgBnBwxycuTPz60q6b7YljNoZafI9tVN./EWD7XbG",
-            "password": "$2b$12$E08AhFndeBxUSECDb7VhluDb56BRYy/cUCHtahzRAWIekJtlcjc9S",
+            "password": "$2b$12$E08AhFndeBxUSECDb7VhluDb56BRYy/cUCHtahzRAWIekJtlcjc9S"
+        },
+        {
+            "username": "$2b$12$27X.6c32L5gkPTgeZY9gBuOvKKPW0/0rjCjD41Z9je2mDkCbmRkfS",
+            "password": "$2b$12$jFfMxahQRnl81gfdV.aeEecDCLPQybsJHCeabIb0QfCE15txE2TLy"
         }
     ]
 }
